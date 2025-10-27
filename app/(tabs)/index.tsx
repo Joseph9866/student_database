@@ -280,7 +280,7 @@ const styles = StyleSheet.create({
   },
   subtitle: {
     fontSize: 16,
-    color: '#6b7280',
+    color: '#0b3891ff',
   },
   form: {
     backgroundColor: '#fff',
@@ -335,16 +335,16 @@ const styles = StyleSheet.create({
     minHeight: 50,
   },
   insertButton: {
-    backgroundColor: '#70747cff',
+    backgroundColor: '#0f46b6ff',
   },
   viewButton: {
-    backgroundColor: '#70747cff',
+    backgroundColor: '#0f46b6ff',
   },
   deleteButton: {
-    backgroundColor: '#70747cff',
+    backgroundColor: '#0f46b6ff',
   },
   clearButton: {
-    backgroundColor: '#70747cff',
+    backgroundColor: '#0f46b6ff',
   },
   buttonText: {
     color: '#fff',
